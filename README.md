@@ -20,4 +20,14 @@ Aenean tellus justo, accumsan eget dui sed, pellentesque tristique metus.
 `print("Trzecia linijka kodu")`
 teraz lepiej `print("symbol")`
 
+
+
+| Kolumna 1 | Kolumna 2 | Kolumna 3 |  
+| :---: | :---: | :---: |  
+| to | jest| kolumna :)
+
+[zdjęcia kotków](https://pixabay.com/images/search/kitten/)
+
+
+
 ![](https://raw.githubusercontent.com/IgorKalabun/zadanieMarkdown/main/850ca7d90566b9ed82c60d9d50771230.jpg)
